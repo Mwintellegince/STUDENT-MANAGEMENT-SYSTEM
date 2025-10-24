@@ -145,8 +145,4 @@ Next steps / Suggested improvements
 - Provide a GUI front-end using a lightweight framework (Dear ImGui + SDL2, or a simple Win32 GUI) for a richer UI.
 - Add more robust CSV parsing (use a library) and UTF-8 handling for RTF.
 
-If you'd like, I can:
-- Try to compile the program here and run a smoke test (will attempt if you want me to), or
-- Convert the program to a small GUI using Dear ImGui + GLFW/SDL,
-- Or create an installer or a packaged .exe using tools like Inno Setup.
 
